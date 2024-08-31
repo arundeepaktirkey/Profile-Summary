@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @arundeepaktirkey
 - 👀 I’m interested in Python Web Development and Machin Learning
 - 💞️ I’m looking to collaborate on Django.
-- 📫 How to reach me through gmail arundeepaktirkey96@gmail.com
+- 📫 How to reach me through gmail arundeepak86999@gmail.com
